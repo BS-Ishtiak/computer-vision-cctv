@@ -1,0 +1,55 @@
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# YOLO and model files
+*.pt
+*.pth
+yolov8n.pt
+
+# Face database files
+face_database.index
+face_labels.npy
+face_names.npy
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
