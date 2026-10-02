@@ -1,7 +1,8 @@
-# Virtual environment
+# Virtual environment (NEVER commit)
 venv/
 env/
 ENV/
+*.venv
 
 # Python
 __pycache__/
